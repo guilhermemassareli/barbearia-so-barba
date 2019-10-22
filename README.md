@@ -2,7 +2,7 @@
 site para a barbearia só barba.
 
 projeto desenvolvido para estudo no curso de 
-***desenvolvedor web*** no
+***Desenvolvedor web*** no
 *Senac Americana*.
 
 O objetivo desse projeto é
